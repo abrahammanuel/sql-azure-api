@@ -1,0 +1,11 @@
+C:\Users\Usuario1\Documents\Personal (remoto)\Cursos\ESCUELA DATA SCIENCE\azure _sql\azureplatzi\bin\Debug\netcoreapp2.0\azureplatzi.deps.json
+C:\Users\Usuario1\Documents\Personal (remoto)\Cursos\ESCUELA DATA SCIENCE\azure _sql\azureplatzi\bin\Debug\netcoreapp2.0\azureplatzi.runtimeconfig.json
+C:\Users\Usuario1\Documents\Personal (remoto)\Cursos\ESCUELA DATA SCIENCE\azure _sql\azureplatzi\bin\Debug\netcoreapp2.0\azureplatzi.runtimeconfig.dev.json
+C:\Users\Usuario1\Documents\Personal (remoto)\Cursos\ESCUELA DATA SCIENCE\azure _sql\azureplatzi\bin\Debug\netcoreapp2.0\azureplatzi.dll
+C:\Users\Usuario1\Documents\Personal (remoto)\Cursos\ESCUELA DATA SCIENCE\azure _sql\azureplatzi\bin\Debug\netcoreapp2.0\azureplatzi.pdb
+C:\Users\Usuario1\Documents\Personal (remoto)\Cursos\ESCUELA DATA SCIENCE\azure _sql\azureplatzi\obj\Debug\netcoreapp2.0\azureplatzi.csprojAssemblyReference.cache
+C:\Users\Usuario1\Documents\Personal (remoto)\Cursos\ESCUELA DATA SCIENCE\azure _sql\azureplatzi\obj\Debug\netcoreapp2.0\azureplatzi.csproj.CoreCompileInputs.cache
+C:\Users\Usuario1\Documents\Personal (remoto)\Cursos\ESCUELA DATA SCIENCE\azure _sql\azureplatzi\obj\Debug\netcoreapp2.0\azureplatzi.AssemblyInfoInputs.cache
+C:\Users\Usuario1\Documents\Personal (remoto)\Cursos\ESCUELA DATA SCIENCE\azure _sql\azureplatzi\obj\Debug\netcoreapp2.0\azureplatzi.AssemblyInfo.cs
+C:\Users\Usuario1\Documents\Personal (remoto)\Cursos\ESCUELA DATA SCIENCE\azure _sql\azureplatzi\obj\Debug\netcoreapp2.0\azureplatzi.dll
+C:\Users\Usuario1\Documents\Personal (remoto)\Cursos\ESCUELA DATA SCIENCE\azure _sql\azureplatzi\obj\Debug\netcoreapp2.0\azureplatzi.pdb
