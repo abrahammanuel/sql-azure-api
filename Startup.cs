@@ -8,6 +8,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using azureplatzi.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace azureplatzi
 {
@@ -23,6 +25,9 @@ namespace azureplatzi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            //Aqui se configura el servicio que hara uso del modelo y la cadena de conexion para interactuar con la base de datos
+            string connectionString = Configuration.GetConnectionString("DefaultConnection");
+            services.AddDbContext<ContactsContext>(opt => opt.UseSqlServer(connectionString));
             services.AddMvc();
         }
 
