@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario1\\Documents\\Personal (remoto)\\Cursos\\ESCUELA DATA SCIENCE\\azure _sql\\azureplatzi\\azureplatzi.csproj": {}
+    "C:\\Users\\Usuario1\\Personal (remoto)\\Cursos\\ESCUELA DATA SCIENCE\\azure _sql\\azureplatzi\\azureplatzi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario1\\Documents\\Personal (remoto)\\Cursos\\ESCUELA DATA SCIENCE\\azure _sql\\azureplatzi\\azureplatzi.csproj": {
+    "C:\\Users\\Usuario1\\Personal (remoto)\\Cursos\\ESCUELA DATA SCIENCE\\azure _sql\\azureplatzi\\azureplatzi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario1\\Documents\\Personal (remoto)\\Cursos\\ESCUELA DATA SCIENCE\\azure _sql\\azureplatzi\\azureplatzi.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario1\\Personal (remoto)\\Cursos\\ESCUELA DATA SCIENCE\\azure _sql\\azureplatzi\\azureplatzi.csproj",
         "projectName": "azureplatzi",
-        "projectPath": "C:\\Users\\Usuario1\\Documents\\Personal (remoto)\\Cursos\\ESCUELA DATA SCIENCE\\azure _sql\\azureplatzi\\azureplatzi.csproj",
+        "projectPath": "C:\\Users\\Usuario1\\Personal (remoto)\\Cursos\\ESCUELA DATA SCIENCE\\azure _sql\\azureplatzi\\azureplatzi.csproj",
         "packagesPath": "C:\\Users\\Usuario1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario1\\Documents\\Personal (remoto)\\Cursos\\ESCUELA DATA SCIENCE\\azure _sql\\azureplatzi\\obj\\",
+        "outputPath": "C:\\Users\\Usuario1\\Personal (remoto)\\Cursos\\ESCUELA DATA SCIENCE\\azure _sql\\azureplatzi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
